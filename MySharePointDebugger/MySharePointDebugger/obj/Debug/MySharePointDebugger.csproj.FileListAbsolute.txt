@@ -1,0 +1,11 @@
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\bin\Debug\MySharePointDebugger.exe.config
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\bin\Debug\dumpTruckDown.png
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\bin\Debug\dumpTruckUp.png
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\bin\Debug\MySharePointDebugger.exe
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\bin\Debug\MySharePointDebugger.pdb
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.Form1.resources
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.Properties.Resources.resources
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.csproj.GenerateResource.Cache
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.exe
+C:\Users\adam.turner.dev\Documents\Visual Studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.pdb
+C:\Users\adam.turner.dev\documents\visual studio 2013\cosanostra\MySharePointDebugger\MySharePointDebugger\obj\Debug\MySharePointDebugger.csprojResolveAssemblyReference.cache
