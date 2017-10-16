@@ -1,6 +1,3 @@
-![Screenshot of Adam's Sharepoint Debugger](https://github.com/Grimshire/AdamsSharepointDebugger/blob/master/debugger.PNG)
-
-
 ### Adam's SharePoint Debugger
 
 To use:
@@ -21,3 +18,5 @@ To use:
 ## 4. Properties
 
  With URL and list name stored, check Properties. Next, Press "Get Results".
+
+![Screenshot of Adam's Sharepoint Debugger](https://github.com/Grimshire/AdamsSharepointDebugger/blob/master/debugger.PNG)
