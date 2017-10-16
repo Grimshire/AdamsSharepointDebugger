@@ -1,4 +1,4 @@
-![Screenshot of Adam's Sharepoint Debugger](src)
+![Screenshot of Adam's Sharepoint Debugger](https://github.com/Grimshire/AdamsSharepointDebugger/blob/master/debugger.PNG)
 
 
 ## Welcome to GitHub Pages
