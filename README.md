@@ -4,7 +4,7 @@
 ### Adam's SharePoint Debugger
 
 To use:
-##1. Basic Information
+1. Basic Information
 +
 Enter the URL of the sharepoint site you wish to pull the information from and press "Store". For example: http://www.mysite.com/sites/sitecollection/mysubsite. Check the box next to "Site" on the right.
 
