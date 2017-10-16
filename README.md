@@ -1,40 +1,23 @@
 ![Screenshot of Adam's Sharepoint Debugger](https://github.com/Grimshire/AdamsSharepointDebugger/blob/master/debugger.PNG)
 
 
-## Welcome to GitHub Pages
+### Adam's SharePoint Debugger
 
-You can use the [editor on GitHub](https://github.com/Grimshire/AdamsSharepointDebugger/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To use:
+##1. Basic Information
++
+Enter the URL of the sharepoint site you wish to pull the information from and press "Store". For example: http://www.mysite.com/sites/sitecollection/mysubsite. Check the box next to "Site" on the right.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pressing "Get Results" will now return basic information about your site to include the site title, site URL, Site collection Master Page URL, Site Collection Name, whether or not the site is at the Top Level (aka root), and the GUID of the application.
 
-### Markdown
+##2. Lists
++
+With the stie URL stored on teh right, check Lists on the right, and press "Get Results". Adam's SharePoint Debugger will now retrieve all available lists from the site.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##3. Items
++
+ Type the name of the list from the available lists for the site. Uncheck Site URL, and check the Lists item. Now press "Store". Uncheck Lists, and check Items. Press "Get Results". The application will retrieve the members of the list.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Grimshire/AdamsSharepointDebugger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##4. Properties
++
+With URL and list name stored, check Properties. Next, Press "Get Results".
