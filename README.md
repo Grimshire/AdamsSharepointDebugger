@@ -9,7 +9,7 @@ To use:
 
 ## 2. Lists
 
- With the stie URL stored on teh right, check Lists on the right, and press "Get Results". Adam's SharePoint Debugger will now retrieve  all available lists from the site.
+ With the stie URL stored on the right, check Lists on the right, and press "Get Results". Adam's SharePoint Debugger will now retrieve  all available lists from the site.
 
 ## 3. Items
 
