@@ -9,11 +9,11 @@ To use:
 
 ## 2. Lists
 
- With the stie URL stored on the right, check Lists on the right, and press "Get Results". Adam's SharePoint Debugger will now retrieve  all available lists from the site.
+ After the site URL is stored on the right, check 'Lists' on the right, and press 'Get Results'. Adam's SharePoint Debugger will now retrieve  all available lists from the site.
 
 ## 3. Items
 
- Type the name of the list from the available lists for the site. Uncheck Site URL, and check the Lists item. Now press "Store". Uncheck  Lists, and check Items. Press "Get Results". The application will retrieve the members of the list.
+ Type the name of the list from the available lists for the site. Uncheck 'Site URL', and check the 'Lists' item. Now press 'Store'. Uncheck 'Lists', and check 'Items'. Press 'Get Results'. The application will retrieve the members of the list.
 
 ## 4. Properties
 
